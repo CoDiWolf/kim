@@ -76,7 +76,7 @@ public class Game extends JFrame {
  this.add(isSoundBox);
  this.setDefaultCloseOperation(3);
  this.setResizable(false);
- this.setVisible(true);//     
+ this.setVisible(false);//     
  //        
  MyListener cl = new MyListener(this,Numbers,lb,M, bt, about,back,isSoundBox);
  bt.addActionListener(cl);
