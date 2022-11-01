@@ -9,3 +9,6 @@
 기능을 추가하기 위해서 여러방면으로 코드를 넣어 짜보았지만 대부분이 실현되지 않거나 어디선가 게임이 망가지게 되어서 색깔 정도만 제가 넣을수 있었습니다. 
 
 만약 기능을 더 추가할수 있다면 효과라던가 하는 기능을 넣어보고 싶습니다. 
+
+
+참조한 블로그 : https://intrepidgeeks.com/tutorial/java-2048-game-source-code-implementation
